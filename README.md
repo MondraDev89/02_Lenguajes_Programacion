@@ -17,9 +17,7 @@ Fortalecer mis habilidades en programación mediante:
 | Dart       |
 | JavaScript |
 | Python     |
-| C++        |
-| C#         |
-| Java       |
+
 
 > Más lenguajes se añadirán a medida que avance en mi práctica.
 
